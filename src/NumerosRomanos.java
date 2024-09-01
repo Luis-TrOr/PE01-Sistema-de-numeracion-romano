@@ -1,5 +1,5 @@
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.FileWriter;    //Trillas Ortiz Jose Luis
+import java.io.IOException;   //Arvayo Heraldez Manuel de Jesus
 import java.util.HashMap;
 import java.util.Map;
 
