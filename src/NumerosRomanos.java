@@ -1,6 +1,6 @@
 import java.io.FileWriter;    //Trillas Ortiz Jose Luis
-import java.io.IOException;   //Arvayo Heraldez Manuel de Jesus
-import java.util.HashMap;
+import java.io.IOException;   //Garcia Gonzales Diego Andres
+import java.util.HashMap;     //Ruiz Grijalva Valeria
 import java.util.Map;
 
 public class NumerosRomanos {
